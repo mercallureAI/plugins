@@ -1,0 +1,31 @@
+{
+  "name": "mercallure-plugins",
+  "owner": {
+    "name": "mercallureAI",
+    "email": "contact@mercallure.ai"
+  },
+  "metadata": {
+    "description": "mercallureAI's plugins marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "teamdna",
+      "source": {
+        "source": "github",
+        "repo": "mercallureAI/TeamDNA"
+      },
+      "description": "Enterprise team knowledge collaboration system based on Git + Claude Code SKILL",
+      "version": "1.0.0",
+      "keywords": ["knowledge", "collaboration", "team", "git"],
+      "category": "collaboration",
+      "author": {
+        "name": "mercallureAI"
+      },
+      "homepage": "https://github.com/mercallureAI/TeamDNA",
+      "repository": "https://github.com/mercallureAI/TeamDNA",
+      "license": "MIT",
+      "strict": true
+    }
+  ]
+}

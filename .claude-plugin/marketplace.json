@@ -12,8 +12,8 @@
     {
       "name": "teamdna",
       "source": {
-        "source": "github",
-        "repo": "mercallureAI/TeamDNA"
+        "source": "url",
+        "url": "https://github.com/mercallureAI/TeamDNA.git"
       },
       "description": "Enterprise team knowledge collaboration system based on Git + Claude Code SKILL",
       "version": "1.0.0",

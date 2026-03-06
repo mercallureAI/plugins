@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "mercallureAI's plugins marketplace",
-    "version": "1.0.0"
+    "version": "0.1.0"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "url": "https://github.com/mercallureAI/TeamDNA.git"
       },
       "description": "Enterprise team knowledge collaboration system based on Git + Claude Code SKILL",
-      "version": "1.0.0",
+      "version": "0.1.0",
       "keywords": ["knowledge", "collaboration", "team", "git"],
       "category": "collaboration",
       "author": {
